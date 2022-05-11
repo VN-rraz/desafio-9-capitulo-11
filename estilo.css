@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(43, 35, 35);
+    
+}
+h1{
+    color: whitesmoke;
+    text-align: center;
+}
+p{
+    color: whitesmoke;
+    text-align: center;
+}
+mark{
+    background-color: tomato;
+    color: white;
+}
+.videos{
+    text-align: center;
+}
